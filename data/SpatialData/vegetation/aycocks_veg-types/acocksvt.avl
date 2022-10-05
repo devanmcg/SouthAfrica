@@ -1,0 +1,2876 @@
+/3.1
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	31
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	357
+	Class:	358
+	Class:	359
+	Class:	360
+	Class:	361
+	Class:	362
+	Class:	363
+	Class:	364
+	Class:	365
+	Class:	366
+	Class:	367
+	Class:	368
+	Class:	369
+	Class:	370
+	Class:	371
+	Class:	372
+	Class:	373
+	Class:	374
+	Class:	375
+	Class:	376
+	Class:	377
+	Class:	378
+	Class:	379
+	Class:	380
+	Class:	381
+	Class:	382
+	Class:	383
+	Class:	384
+	Class:	385
+	Class:	386
+	Class:	387
+	Class:	388
+	Class:	389
+	Class:	390
+	Class:	391
+	Class:	392
+	Class:	393
+	Class:	394
+	Class:	395
+	Class:	396
+	Class:	397
+	Class:	398
+	Class:	399
+	Class:	400
+	Class:	401
+	Class:	402
+	Class:	403
+	Class:	404
+	Class:	405
+	Class:	406
+	Class:	407
+	Class:	408
+	Class:	409
+	Class:	410
+	Class:	411
+	Class:	412
+	Class:	413
+	Class:	414
+	Class:	415
+	Class:	416
+	Class:	417
+	Class:	418
+	Class:	419
+	Class:	420
+	Class:	421
+	Class:	422
+	Class:	423
+	Class:	424
+	Class:	425
+	Class:	426
+	Class:	427
+	Class:	428
+	StdDevs:	1.00000000000000
+	NullSym:	353
+	NullValues:	429
+	StatValues:	430
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Legend"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	14
+	Child:	19
+	Child:	24
+	Child:	29
+	Child:	34
+	Child:	38
+	Child:	43
+	Child:	48
+	Child:	53
+	Child:	58
+	Child:	63
+	Child:	68
+	Child:	73
+	Child:	78
+	Child:	83
+	Child:	88
+	Child:	92
+	Child:	97
+	Child:	102
+	Child:	107
+	Child:	112
+	Child:	117
+	Child:	122
+	Child:	127
+	Child:	132
+	Child:	137
+	Child:	141
+	Child:	146
+	Child:	151
+	Child:	156
+	Child:	160
+	Child:	165
+	Child:	170
+	Child:	175
+	Child:	180
+	Child:	185
+	Child:	190
+	Child:	195
+	Child:	200
+	Child:	205
+	Child:	210
+	Child:	215
+	Child:	220
+	Child:	225
+	Child:	230
+	Child:	235
+	Child:	240
+	Child:	244
+	Child:	249
+	Child:	254
+	Child:	259
+	Child:	264
+	Child:	269
+	Child:	274
+	Child:	279
+	Child:	284
+	Child:	289
+	Child:	294
+	Child:	299
+	Child:	304
+	Child:	309
+	Child:	314
+	Child:	319
+	Child:	324
+	Child:	329
+	Child:	334
+	Child:	339
+	Child:	344
+	Child:	348
+	Child:	353
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0xdb
+	Green:	0xd1c7
+	Blue:	0xdc00
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+	Style:	0x03
+	Stipple:	13
+)
+
+(TClr.10
+	Red:	0xdb
+	Green:	0xd1c7
+	Blue:	0xdc00
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(Stipple.13
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.14
+	Color:	15
+	Outline:	1
+	OutlineColor:	16
+	OutlineWidth:	0.10000000000000
+	BgColor:	17
+	Style:	0x03
+	Stipple:	18
+)
+
+(TClr.15
+	Red:	0xdb
+	Green:	0xd1c7
+	Blue:	0xdc00
+)
+
+(TClr.16
+)
+
+(TClr.17
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.18
+	Columns:	8
+	Rows:	8
+	Bits:	11111111 11111111 
+)
+
+(BShSym.19
+	Color:	20
+	Outline:	1
+	OutlineColor:	21
+	OutlineWidth:	0.10000000000000
+	BgColor:	22
+	Style:	0x03
+	Stipple:	23
+)
+
+(TClr.20
+	Red:	0xdb
+	Green:	0xd1c7
+	Blue:	0xdc00
+)
+
+(TClr.21
+)
+
+(TClr.22
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.23
+	Columns:	8
+	Rows:	8
+	Bits:	0000ff00 0000ff00 
+)
+
+(BShSym.24
+	Color:	25
+	Outline:	1
+	OutlineColor:	26
+	OutlineWidth:	0.10000000000000
+	BgColor:	27
+	Style:	0x03
+	Stipple:	28
+)
+
+(TClr.25
+	Red:	0xdb
+	Green:	0xd1c7
+	Blue:	0xdc00
+)
+
+(TClr.26
+)
+
+(TClr.27
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.28
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+	Style:	0x03
+	Stipple:	33
+)
+
+(TClr.30
+	Red:	0xdb
+	Green:	0xd1c7
+	Blue:	0xdc00
+)
+
+(TClr.31
+)
+
+(TClr.32
+	Red:	0xa559
+	Green:	0xfad1
+	Blue:	0xff00
+)
+
+(Stipple.33
+	Columns:	8
+	Rows:	8
+	Bits:	00182442 42241800 
+)
+
+(BShSym.34
+	Color:	35
+	Outline:	1
+	OutlineColor:	36
+	OutlineWidth:	0.10000000000000
+	BgColor:	37
+)
+
+(TClr.35
+	Red:	0xc33b
+	Green:	0xfc36
+	Blue:	0xff00
+)
+
+(TClr.36
+)
+
+(TClr.37
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.38
+	Color:	39
+	Outline:	1
+	OutlineColor:	40
+	OutlineWidth:	0.10000000000000
+	BgColor:	41
+	Style:	0x03
+	Stipple:	42
+)
+
+(TClr.39
+	Red:	0xff00
+	Green:	0xbf7b
+	Blue:	0xfe
+)
+
+(TClr.40
+)
+
+(TClr.41
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(Stipple.42
+	Columns:	8
+	Rows:	8
+	Bits:	00ff00ff 00ff00ff 
+)
+
+(BShSym.43
+	Color:	44
+	Outline:	1
+	OutlineColor:	45
+	OutlineWidth:	0.10000000000000
+	BgColor:	46
+	Style:	0x03
+	Stipple:	47
+)
+
+(TClr.44
+	Red:	0xc0ff
+	Green:	0x90b1
+	Blue:	0x5834
+)
+
+(TClr.45
+)
+
+(TClr.46
+	Green:	0xffff
+)
+
+(Stipple.47
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.48
+	Color:	49
+	Outline:	1
+	OutlineColor:	50
+	OutlineWidth:	0.10000000000000
+	BgColor:	51
+	Style:	0x03
+	Stipple:	52
+)
+
+(TClr.49
+	Red:	0xfe
+	Green:	0xdb57
+	Blue:	0xff00
+)
+
+(TClr.50
+)
+
+(TClr.51
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(Stipple.52
+	Columns:	8
+	Rows:	8
+	Bits:	88112244 88112244 
+)
+
+(BShSym.53
+	Color:	54
+	Outline:	1
+	OutlineColor:	55
+	OutlineWidth:	0.10000000000000
+	BgColor:	56
+	Style:	0x03
+	Stipple:	57
+)
+
+(TClr.54
+	Red:	0xf7f6
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(TClr.55
+)
+
+(TClr.56
+	Red:	0xeb00
+	Green:	0x3367
+	Blue:	0xa35b
+)
+
+(Stipple.57
+	Columns:	8
+	Rows:	8
+	Bits:	30303030 30303030 
+)
+
+(BShSym.58
+	Color:	59
+	Outline:	1
+	OutlineColor:	60
+	OutlineWidth:	0.10000000000000
+	BgColor:	61
+	Style:	0x03
+	Stipple:	62
+)
+
+(TClr.59
+	Red:	0x9292
+	Green:	0xaeae
+	Blue:	0x2f2f
+)
+
+(TClr.60
+)
+
+(TClr.61
+	Red:	0xff00
+	Green:	0xad9f
+	Blue:	0xfe
+)
+
+(Stipple.62
+	Columns:	8
+	Rows:	8
+	Bits:	33333333 33333333 
+)
+
+(BShSym.63
+	Color:	64
+	Outline:	1
+	OutlineColor:	65
+	OutlineWidth:	0.10000000000000
+	BgColor:	66
+	Style:	0x03
+	Stipple:	67
+)
+
+(TClr.64
+	Red:	0x9292
+	Green:	0xaeae
+	Blue:	0x2f2f
+)
+
+(TClr.65
+)
+
+(TClr.66
+	Red:	0xff00
+	Green:	0xad9f
+	Blue:	0xfe
+)
+
+(Stipple.67
+	Columns:	8
+	Rows:	8
+	Bits:	30303030 30303030 
+)
+
+(BShSym.68
+	Color:	69
+	Outline:	1
+	OutlineColor:	70
+	OutlineWidth:	0.10000000000000
+	BgColor:	71
+	Style:	0x03
+	Stipple:	72
+)
+
+(TClr.69
+	Red:	0xffff
+	Green:	0xc7c7
+	Blue:	0xaeae
+)
+
+(TClr.70
+)
+
+(TClr.71
+	Red:	0xbb70
+	Green:	0xfe
+	Blue:	0xff00
+)
+
+(Stipple.72
+	Columns:	8
+	Rows:	8
+	Bits:	80402010 08040201 
+)
+
+(BShSym.73
+	Color:	74
+	Outline:	1
+	OutlineColor:	75
+	OutlineWidth:	0.10000000000000
+	BgColor:	76
+	Style:	0x03
+	Stipple:	77
+)
+
+(TClr.74
+	Red:	0xffff
+	Green:	0xc7c7
+	Blue:	0xaeae
+)
+
+(TClr.75
+)
+
+(TClr.76
+	Red:	0xbb70
+	Green:	0xfe
+	Blue:	0xff00
+)
+
+(Stipple.77
+	Columns:	8
+	Rows:	8
+	Bits:	30303030 30303030 
+)
+
+(BShSym.78
+	Color:	79
+	Outline:	1
+	OutlineColor:	80
+	OutlineWidth:	0.10000000000000
+	BgColor:	81
+	Style:	0x03
+	Stipple:	82
+)
+
+(TClr.79
+	Red:	0xffff
+	Green:	0xc7c7
+	Blue:	0xaeae
+)
+
+(TClr.80
+)
+
+(TClr.81
+	Red:	0xbb70
+	Green:	0xfe
+	Blue:	0xff00
+)
+
+(Stipple.82
+	Columns:	8
+	Rows:	8
+	Bits:	aa55aa55 aa55aa55 
+)
+
+(BShSym.83
+	Color:	84
+	Outline:	1
+	OutlineColor:	85
+	OutlineWidth:	0.10000000000000
+	BgColor:	86
+	Style:	0x03
+	Stipple:	87
+)
+
+(TClr.84
+	Red:	0xffff
+	Green:	0xc7c7
+	Blue:	0xaeae
+)
+
+(TClr.85
+)
+
+(TClr.86
+	Red:	0xbb70
+	Green:	0xfe
+	Blue:	0xff00
+)
+
+(Stipple.87
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 0000ffff 
+)
+
+(BShSym.88
+	Color:	89
+	Outline:	1
+	OutlineColor:	90
+	OutlineWidth:	0.10000000000000
+	BgColor:	91
+)
+
+(TClr.89
+	Red:	0xc3b5
+	Green:	0xff00
+	Blue:	0xc33b
+)
+
+(TClr.90
+)
+
+(TClr.91
+	Red:	0x299
+	Green:	0xdc00
+	Blue:	0xdb
+)
+
+(BShSym.92
+	Color:	93
+	Outline:	1
+	OutlineColor:	94
+	OutlineWidth:	0.10000000000000
+	BgColor:	95
+	Style:	0x03
+	Stipple:	96
+)
+
+(TClr.93
+	Red:	0xc3b5
+	Green:	0xff00
+	Blue:	0xc33b
+)
+
+(TClr.94
+)
+
+(TClr.95
+	Red:	0x299
+	Green:	0xdc00
+	Blue:	0xdb
+)
+
+(Stipple.96
+	Columns:	8
+	Rows:	8
+	Bits:	33333333 33333333 
+)
+
+(BShSym.97
+	Color:	98
+	Outline:	1
+	OutlineColor:	99
+	OutlineWidth:	0.10000000000000
+	BgColor:	100
+	Style:	0x03
+	Stipple:	101
+)
+
+(TClr.98
+	Red:	0xc3b5
+	Green:	0xff00
+	Blue:	0xc33b
+)
+
+(TClr.99
+)
+
+(TClr.100
+	Red:	0x299
+	Green:	0xdc00
+	Blue:	0xdb
+)
+
+(Stipple.101
+	Columns:	8
+	Rows:	8
+	Bits:	ffddff77 ffddff77 
+)
+
+(BShSym.102
+	Color:	103
+	Outline:	1
+	OutlineColor:	104
+	OutlineWidth:	0.10000000000000
+	BgColor:	105
+	Style:	0x03
+	Stipple:	106
+)
+
+(TClr.103
+	Red:	0xa610
+	Green:	0xff00
+	Blue:	0xa559
+)
+
+(TClr.104
+)
+
+(TClr.105
+	Red:	0xff00
+	Green:	0xf963
+	Blue:	0xa559
+)
+
+(Stipple.106
+	Columns:	8
+	Rows:	8
+	Bits:	40000400 40000400 
+)
+
+(BShSym.107
+	Color:	108
+	Outline:	1
+	OutlineColor:	109
+	OutlineWidth:	0.10000000000000
+	BgColor:	110
+	Style:	0x03
+	Stipple:	111
+)
+
+(TClr.108
+	Red:	0xa610
+	Green:	0xff00
+	Blue:	0xa559
+)
+
+(TClr.109
+)
+
+(TClr.110
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.111
+	Columns:	8
+	Rows:	8
+	Bits:	40000400 40000400 
+)
+
+(BShSym.112
+	Color:	113
+	Outline:	1
+	OutlineColor:	114
+	OutlineWidth:	0.10000000000000
+	BgColor:	115
+	Style:	0x03
+	Stipple:	116
+)
+
+(TClr.113
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.114
+)
+
+(TClr.115
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(Stipple.116
+	Columns:	8
+	Rows:	8
+	Bits:	aa55aa55 aa55aa55 
+)
+
+(BShSym.117
+	Color:	118
+	Outline:	1
+	OutlineColor:	119
+	OutlineWidth:	0.10000000000000
+	BgColor:	120
+	Style:	0x03
+	Stipple:	121
+)
+
+(TClr.118
+	Red:	0xff00
+	Green:	0xa559
+	Blue:	0xa559
+)
+
+(TClr.119
+)
+
+(TClr.120
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(Stipple.121
+	Columns:	8
+	Rows:	8
+	Bits:	40000400 40000400 
+)
+
+(BShSym.122
+	Color:	123
+	Outline:	1
+	OutlineColor:	124
+	OutlineWidth:	0.10000000000000
+	BgColor:	125
+	Style:	0x03
+	Stipple:	126
+)
+
+(TClr.123
+	Red:	0xff00
+	Green:	0xa559
+	Blue:	0xa559
+)
+
+(TClr.124
+)
+
+(TClr.125
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(Stipple.126
+	Columns:	8
+	Rows:	8
+	Bits:	ffddff77 ffddff77 
+)
+
+(BShSym.127
+	Color:	128
+	Outline:	1
+	OutlineColor:	129
+	OutlineWidth:	0.10000000000000
+	BgColor:	130
+	Style:	0x03
+	Stipple:	131
+)
+
+(TClr.128
+	Red:	0xff00
+	Green:	0xa559
+	Blue:	0xa559
+)
+
+(TClr.129
+)
+
+(TClr.130
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(Stipple.131
+	Columns:	8
+	Rows:	8
+	Bits:	bbeebbee bbeebbee 
+)
+
+(BShSym.132
+	Color:	133
+	Outline:	1
+	OutlineColor:	134
+	OutlineWidth:	0.10000000000000
+	BgColor:	135
+	Style:	0x03
+	Stipple:	136
+)
+
+(TClr.133
+	Red:	0xff00
+	Green:	0xa559
+	Blue:	0xa559
+)
+
+(TClr.134
+)
+
+(TClr.135
+	Red:	0xc33b
+	Green:	0xfc36
+	Blue:	0xff00
+)
+
+(Stipple.136
+	Columns:	8
+	Rows:	8
+	Bits:	11111111 11111111 
+)
+
+(BShSym.137
+	Color:	138
+	Outline:	1
+	OutlineColor:	139
+	OutlineWidth:	0.10000000000000
+	BgColor:	140
+)
+
+(TClr.138
+	Red:	0xff00
+	Green:	0xa559
+	Blue:	0xa559
+)
+
+(TClr.139
+)
+
+(TClr.140
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.141
+	Color:	142
+	Outline:	1
+	OutlineColor:	143
+	OutlineWidth:	0.10000000000000
+	BgColor:	144
+	Style:	0x03
+	Stipple:	145
+)
+
+(TClr.142
+	Red:	0xffff
+)
+
+(TClr.143
+)
+
+(TClr.144
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.145
+	Columns:	8
+	Rows:	8
+	Bits:	40ff0404 04ff4040 
+)
+
+(BShSym.146
+	Color:	147
+	Outline:	1
+	OutlineColor:	148
+	OutlineWidth:	0.10000000000000
+	BgColor:	149
+	Style:	0x03
+	Stipple:	150
+)
+
+(TClr.147
+	Red:	0xff00
+	Green:	0xa559
+	Blue:	0xa559
+)
+
+(TClr.148
+)
+
+(TClr.149
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(Stipple.150
+	Columns:	8
+	Rows:	8
+	Bits:	88112244 88112244 
+)
+
+(BShSym.151
+	Color:	152
+	Outline:	1
+	OutlineColor:	153
+	OutlineWidth:	0.10000000000000
+	BgColor:	154
+	Style:	0x03
+	Stipple:	155
+)
+
+(TClr.152
+	Red:	0xff00
+	Green:	0xad9f
+	Blue:	0xfe
+)
+
+(TClr.153
+)
+
+(TClr.154
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(Stipple.155
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.156
+	Color:	157
+	Outline:	1
+	OutlineColor:	158
+	OutlineWidth:	0.10000000000000
+	BgColor:	159
+)
+
+(TClr.157
+	Red:	0xff00
+	Green:	0xad9f
+	Blue:	0xfe
+)
+
+(TClr.158
+)
+
+(TClr.159
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(BShSym.160
+	Color:	161
+	Outline:	1
+	OutlineColor:	162
+	OutlineWidth:	0.10000000000000
+	BgColor:	163
+	Style:	0x03
+	Stipple:	164
+)
+
+(TClr.161
+	Red:	0xae6d
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(TClr.162
+)
+
+(TClr.163
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(Stipple.164
+	Columns:	8
+	Rows:	8
+	Bits:	33333333 33333333 
+)
+
+(BShSym.165
+	Color:	166
+	Outline:	1
+	OutlineColor:	167
+	OutlineWidth:	0.10000000000000
+	BgColor:	168
+	Style:	0x03
+	Stipple:	169
+)
+
+(TClr.166
+	Red:	0xae6d
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(TClr.167
+)
+
+(TClr.168
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(Stipple.169
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 0000ffff 
+)
+
+(BShSym.170
+	Color:	171
+	Outline:	1
+	OutlineColor:	172
+	OutlineWidth:	0.10000000000000
+	BgColor:	173
+	Style:	0x03
+	Stipple:	174
+)
+
+(TClr.171
+	Red:	0xffff
+)
+
+(TClr.172
+)
+
+(TClr.173
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.174
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 0000ffff 
+)
+
+(BShSym.175
+	Color:	176
+	Outline:	1
+	OutlineColor:	177
+	OutlineWidth:	0.10000000000000
+	BgColor:	178
+	Style:	0x03
+	Stipple:	179
+)
+
+(TClr.176
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.177
+)
+
+(TClr.178
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(Stipple.179
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 00000000 
+)
+
+(BShSym.180
+	Color:	181
+	Outline:	1
+	OutlineColor:	182
+	OutlineWidth:	0.10000000000000
+	BgColor:	183
+	Style:	0x03
+	Stipple:	184
+)
+
+(TClr.181
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.182
+)
+
+(TClr.183
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(Stipple.184
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 0000ffff 
+)
+
+(BShSym.185
+	Color:	186
+	Outline:	1
+	OutlineColor:	187
+	OutlineWidth:	0.10000000000000
+	BgColor:	188
+	Style:	0x03
+	Stipple:	189
+)
+
+(TClr.186
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.187
+)
+
+(TClr.188
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(Stipple.189
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.190
+	Color:	191
+	Outline:	1
+	OutlineColor:	192
+	OutlineWidth:	0.10000000000000
+	BgColor:	193
+	Style:	0x03
+	Stipple:	194
+)
+
+(TClr.191
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(TClr.192
+)
+
+(TClr.193
+	Red:	0xf7f6
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(Stipple.194
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 0000ffff 
+)
+
+(BShSym.195
+	Color:	196
+	Outline:	1
+	OutlineColor:	197
+	OutlineWidth:	0.10000000000000
+	BgColor:	198
+	Style:	0x03
+	Stipple:	199
+)
+
+(TClr.196
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.197
+)
+
+(TClr.198
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(Stipple.199
+	Columns:	8
+	Rows:	8
+	Bits:	44221188 44221188 
+)
+
+(BShSym.200
+	Color:	201
+	Outline:	1
+	OutlineColor:	202
+	OutlineWidth:	0.10000000000000
+	BgColor:	203
+	Style:	0x03
+	Stipple:	204
+)
+
+(TClr.201
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.202
+)
+
+(TClr.203
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(Stipple.204
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 00000000 
+)
+
+(BShSym.205
+	Color:	206
+	Outline:	1
+	OutlineColor:	207
+	OutlineWidth:	0.10000000000000
+	BgColor:	208
+	Style:	0x03
+	Stipple:	209
+)
+
+(TClr.206
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.207
+)
+
+(TClr.208
+	Red:	0xeb00
+	Green:	0x3367
+	Blue:	0xa35b
+)
+
+(Stipple.209
+	Columns:	8
+	Rows:	8
+	Bits:	a3c78b11 b87c3a11 
+)
+
+(BShSym.210
+	Color:	211
+	Outline:	1
+	OutlineColor:	212
+	OutlineWidth:	0.10000000000000
+	BgColor:	213
+	Style:	0x03
+	Stipple:	214
+)
+
+(TClr.211
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.212
+)
+
+(TClr.213
+	Red:	0xeb00
+	Green:	0x3367
+	Blue:	0xa35b
+)
+
+(Stipple.214
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 0000ffff 
+)
+
+(BShSym.215
+	Color:	216
+	Outline:	1
+	OutlineColor:	217
+	OutlineWidth:	0.10000000000000
+	BgColor:	218
+	Style:	0x03
+	Stipple:	219
+)
+
+(TClr.216
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.217
+)
+
+(TClr.218
+	Red:	0xbb00
+	Green:	0xa69d
+	Blue:	0xba
+)
+
+(Stipple.219
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 00000000 
+)
+
+(BShSym.220
+	Color:	221
+	Outline:	1
+	OutlineColor:	222
+	OutlineWidth:	0.10000000000000
+	BgColor:	223
+	Style:	0x03
+	Stipple:	224
+)
+
+(TClr.221
+	Red:	0xb7b7
+	Green:	0xdfdf
+	Blue:	0x8686
+)
+
+(TClr.222
+)
+
+(TClr.223
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(Stipple.224
+	Columns:	8
+	Rows:	8
+	Bits:	01020408 10204080 
+)
+
+(BShSym.225
+	Color:	226
+	Outline:	1
+	OutlineColor:	227
+	OutlineWidth:	0.10000000000000
+	BgColor:	228
+	Style:	0x03
+	Stipple:	229
+)
+
+(TClr.226
+	Red:	0xb7b7
+	Green:	0xdfdf
+	Blue:	0x8686
+)
+
+(TClr.227
+)
+
+(TClr.228
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(Stipple.229
+	Columns:	8
+	Rows:	8
+	Bits:	33333333 33333333 
+)
+
+(BShSym.230
+	Color:	231
+	Outline:	1
+	OutlineColor:	232
+	OutlineWidth:	0.10000000000000
+	BgColor:	233
+	Style:	0x03
+	Stipple:	234
+)
+
+(TClr.231
+	Red:	0xb7b7
+	Green:	0xdfdf
+	Blue:	0x8686
+)
+
+(TClr.232
+)
+
+(TClr.233
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(Stipple.234
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.235
+	Color:	236
+	Outline:	1
+	OutlineColor:	237
+	OutlineWidth:	0.10000000000000
+	BgColor:	238
+	Style:	0x03
+	Stipple:	239
+)
+
+(TClr.236
+	Red:	0xb7b7
+	Green:	0xdfdf
+	Blue:	0x8686
+)
+
+(TClr.237
+)
+
+(TClr.238
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(Stipple.239
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 0000ffff 
+)
+
+(BShSym.240
+	Color:	241
+	Outline:	1
+	OutlineColor:	242
+	OutlineWidth:	0.10000000000000
+	BgColor:	243
+)
+
+(TClr.241
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.242
+)
+
+(TClr.243
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(BShSym.244
+	Color:	245
+	Outline:	1
+	OutlineColor:	246
+	OutlineWidth:	0.10000000000000
+	BgColor:	247
+	Style:	0x03
+	Stipple:	248
+)
+
+(TClr.245
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.246
+)
+
+(TClr.247
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(Stipple.248
+	Columns:	8
+	Rows:	8
+	Bits:	3366cc99 3366cc99 
+)
+
+(BShSym.249
+	Color:	250
+	Outline:	1
+	OutlineColor:	251
+	OutlineWidth:	0.10000000000000
+	BgColor:	252
+	Style:	0x03
+	Stipple:	253
+)
+
+(TClr.250
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.251
+)
+
+(TClr.252
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(Stipple.253
+	Columns:	8
+	Rows:	8
+	Bits:	aa55aa55 aa55aa55 
+)
+
+(BShSym.254
+	Color:	255
+	Outline:	1
+	OutlineColor:	256
+	OutlineWidth:	0.10000000000000
+	BgColor:	257
+	Style:	0x03
+	Stipple:	258
+)
+
+(TClr.255
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.256
+)
+
+(TClr.257
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(Stipple.258
+	Columns:	8
+	Rows:	8
+	Bits:	11111111 11111111 
+)
+
+(BShSym.259
+	Color:	260
+	Outline:	1
+	OutlineColor:	261
+	OutlineWidth:	0.10000000000000
+	BgColor:	262
+	Style:	0x03
+	Stipple:	263
+)
+
+(TClr.260
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.261
+)
+
+(TClr.262
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(Stipple.263
+	Columns:	8
+	Rows:	8
+	Bits:	ffddff77 ffddff77 
+)
+
+(BShSym.264
+	Color:	265
+	Outline:	1
+	OutlineColor:	266
+	OutlineWidth:	0.10000000000000
+	BgColor:	267
+	Style:	0x03
+	Stipple:	268
+)
+
+(TClr.265
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.266
+)
+
+(TClr.267
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(Stipple.268
+	Columns:	8
+	Rows:	8
+	Bits:	30303030 30303030 
+)
+
+(BShSym.269
+	Color:	270
+	Outline:	1
+	OutlineColor:	271
+	OutlineWidth:	0.10000000000000
+	BgColor:	272
+	Style:	0x03
+	Stipple:	273
+)
+
+(TClr.270
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(TClr.271
+)
+
+(TClr.272
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(Stipple.273
+	Columns:	8
+	Rows:	8
+	Bits:	663399cc 663399cc 
+)
+
+(BShSym.274
+	Color:	275
+	Outline:	1
+	OutlineColor:	276
+	OutlineWidth:	0.10000000000000
+	BgColor:	277
+	Style:	0x03
+	Stipple:	278
+)
+
+(TClr.275
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(TClr.276
+)
+
+(TClr.277
+	Red:	0x9292
+	Green:	0xaeae
+	Blue:	0x2f2f
+)
+
+(Stipple.278
+	Columns:	8
+	Rows:	8
+	Bits:	d8c60660 6c8d8118 
+)
+
+(BShSym.279
+	Color:	280
+	Outline:	1
+	OutlineColor:	281
+	OutlineWidth:	0.10000000000000
+	BgColor:	282
+	Style:	0x03
+	Stipple:	283
+)
+
+(TClr.280
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.281
+)
+
+(TClr.282
+	Green:	0xffff
+)
+
+(Stipple.283
+	Columns:	8
+	Rows:	8
+	Bits:	0000ffff 0000ffff 
+)
+
+(BShSym.284
+	Color:	285
+	Outline:	1
+	OutlineColor:	286
+	OutlineWidth:	0.10000000000000
+	BgColor:	287
+	Style:	0x03
+	Stipple:	288
+)
+
+(TClr.285
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.286
+)
+
+(TClr.287
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(Stipple.288
+	Columns:	8
+	Rows:	8
+	Bits:	40000400 40000400 
+)
+
+(BShSym.289
+	Color:	290
+	Outline:	1
+	OutlineColor:	291
+	OutlineWidth:	0.10000000000000
+	BgColor:	292
+	Style:	0x03
+	Stipple:	293
+)
+
+(TClr.290
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.291
+)
+
+(TClr.292
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(Stipple.293
+	Columns:	8
+	Rows:	8
+	Bits:	00182442 42241800 
+)
+
+(BShSym.294
+	Color:	295
+	Outline:	1
+	OutlineColor:	296
+	OutlineWidth:	0.10000000000000
+	BgColor:	297
+	Style:	0x03
+	Stipple:	298
+)
+
+(TClr.295
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.296
+)
+
+(TClr.297
+	Red:	0xc33b
+	Green:	0xfc36
+	Blue:	0xff00
+)
+
+(Stipple.298
+	Columns:	8
+	Rows:	8
+	Bits:	aa55aa55 aa55aa55 
+)
+
+(BShSym.299
+	Color:	300
+	Outline:	1
+	OutlineColor:	301
+	OutlineWidth:	0.10000000000000
+	BgColor:	302
+	Style:	0x03
+	Stipple:	303
+)
+
+(TClr.300
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.301
+)
+
+(TClr.302
+	Red:	0xeb00
+	Green:	0x5cb6
+	Blue:	0xb6cf
+)
+
+(Stipple.303
+	Columns:	8
+	Rows:	8
+	Bits:	bbeebbee bbeebbee 
+)
+
+(BShSym.304
+	Color:	305
+	Outline:	1
+	OutlineColor:	306
+	OutlineWidth:	0.10000000000000
+	BgColor:	307
+	Style:	0x03
+	Stipple:	308
+)
+
+(TClr.305
+	Green:	0xffff
+)
+
+(TClr.306
+)
+
+(TClr.307
+	Green:	0xffff
+)
+
+(Stipple.308
+	Columns:	8
+	Rows:	8
+	Bits:	bbeebbee bbeebbee 
+)
+
+(BShSym.309
+	Color:	310
+	Outline:	1
+	OutlineColor:	311
+	OutlineWidth:	0.10000000000000
+	BgColor:	312
+	Style:	0x03
+	Stipple:	313
+)
+
+(TClr.310
+	Red:	0xff00
+	Green:	0xf963
+	Blue:	0xa559
+)
+
+(TClr.311
+)
+
+(TClr.312
+	Green:	0xffff
+)
+
+(Stipple.313
+	Columns:	8
+	Rows:	8
+	Bits:	33333333 33333333 
+)
+
+(BShSym.314
+	Color:	315
+	Outline:	1
+	OutlineColor:	316
+	OutlineWidth:	0.10000000000000
+	BgColor:	317
+	Style:	0x03
+	Stipple:	318
+)
+
+(TClr.315
+	Red:	0xff00
+	Green:	0xf963
+	Blue:	0xa559
+)
+
+(TClr.316
+)
+
+(TClr.317
+	Green:	0xffff
+)
+
+(Stipple.318
+	Columns:	8
+	Rows:	8
+	Bits:	663399cc 663399cc 
+)
+
+(BShSym.319
+	Color:	320
+	Outline:	1
+	OutlineColor:	321
+	OutlineWidth:	0.10000000000000
+	BgColor:	322
+	Style:	0x03
+	Stipple:	323
+)
+
+(TClr.320
+	Red:	0xff00
+	Green:	0xf963
+	Blue:	0xa559
+)
+
+(TClr.321
+)
+
+(TClr.322
+	Green:	0xffff
+)
+
+(Stipple.323
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.324
+	Color:	325
+	Outline:	1
+	OutlineColor:	326
+	OutlineWidth:	0.10000000000000
+	BgColor:	327
+	Style:	0x03
+	Stipple:	328
+)
+
+(TClr.325
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(TClr.326
+)
+
+(TClr.327
+	Green:	0xffff
+)
+
+(Stipple.328
+	Columns:	8
+	Rows:	8
+	Bits:	11111111 11111111 
+)
+
+(BShSym.329
+	Color:	330
+	Outline:	1
+	OutlineColor:	331
+	OutlineWidth:	0.10000000000000
+	BgColor:	332
+	Style:	0x03
+	Stipple:	333
+)
+
+(TClr.330
+	Red:	0xeb00
+	Green:	0x3367
+	Blue:	0xa35b
+)
+
+(TClr.331
+)
+
+(TClr.332
+	Green:	0xffff
+)
+
+(Stipple.333
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.334
+	Color:	335
+	Outline:	1
+	OutlineColor:	336
+	OutlineWidth:	0.10000000000000
+	BgColor:	337
+	Style:	0x03
+	Stipple:	338
+)
+
+(TClr.335
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(TClr.336
+)
+
+(TClr.337
+	Green:	0xffff
+)
+
+(Stipple.338
+	Columns:	8
+	Rows:	8
+	Bits:	44444482 01102844 
+)
+
+(BShSym.339
+	Color:	340
+	Outline:	1
+	OutlineColor:	341
+	OutlineWidth:	0.10000000000000
+	BgColor:	342
+	Style:	0x03
+	Stipple:	343
+)
+
+(TClr.340
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(TClr.341
+)
+
+(TClr.342
+	Green:	0xffff
+)
+
+(Stipple.343
+	Columns:	8
+	Rows:	8
+	Bits:	fd858585 85fd00fd fd
+)
+
+(BShSym.344
+	Color:	345
+	Outline:	1
+	OutlineColor:	346
+	OutlineWidth:	0.10000000000000
+	BgColor:	347
+)
+
+(TClr.345
+	Red:	0xa600
+	Green:	0xb600
+	Blue:	0x5500
+)
+
+(TClr.346
+)
+
+(TClr.347
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.348
+	Color:	349
+	Outline:	1
+	OutlineColor:	350
+	OutlineWidth:	0.10000000000000
+	BgColor:	351
+	Style:	0x03
+	Stipple:	352
+)
+
+(TClr.349
+	Red:	0xdb00
+	Green:	0x6700
+)
+
+(TClr.350
+)
+
+(TClr.351
+	Red:	0xf7f6
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(Stipple.352
+	Columns:	8
+	Rows:	8
+	Bits:	30303030 30303030 
+)
+
+(BShSym.353
+	Color:	354
+	Outline:	1
+	OutlineColor:	355
+	OutlineWidth:	0.10000000000000
+	BgColor:	356
+)
+
+(TClr.354
+	Name:	"Transparent"
+)
+
+(TClr.355
+	Name:	"Transparent"
+)
+
+(TClr.356
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.357
+	IsText:	1
+	Label:	" 1  Coastal Forest and Thornveld"
+	MinStr:	" 1  Coastal Forest and Thornveld"
+	MaxStr:	" 1  Coastal Forest and Thornveld"
+	Precision:	-3
+)
+
+(LClass.358
+	IsText:	1
+	Label:	" 2  Alexandria Forest"
+	MinStr:	" 2  Alexandria Forest"
+	MaxStr:	" 2  Alexandria Forest"
+	Precision:	-3
+)
+
+(LClass.359
+	IsText:	1
+	Label:	" 3  Pondoland Coastal Plateau Sourveld"
+	MinStr:	" 3  Pondoland Coastal Plateau Sourveld"
+	MaxStr:	" 3  Pondoland Coastal Plateau Sourveld"
+	Precision:	-3
+)
+
+(LClass.360
+	IsText:	1
+	Label:	" 4  Knysna Forest"
+	MinStr:	" 4  Knysna Forest"
+	MaxStr:	" 4  Knysna Forest"
+	Precision:	-3
+)
+
+(LClass.361
+	IsText:	1
+	Label:	" 5  Ngongoni Veld"
+	MinStr:	" 5  Ngongoni Veld"
+	MaxStr:	" 5  Ngongoni Veld"
+	Precision:	-3
+)
+
+(LClass.362
+	IsText:	1
+	Label:	" 6  Zululand Thornveld"
+	MinStr:	" 6  Zululand Thornveld"
+	MaxStr:	" 6  Zululand Thornveld"
+	Precision:	-3
+)
+
+(LClass.363
+	IsText:	1
+	Label:	" 7  Eastern Province Thornveld"
+	MinStr:	" 7  Eastern Province Thornveld"
+	MaxStr:	" 7  Eastern Province Thornveld"
+	Precision:	-3
+)
+
+(LClass.364
+	IsText:	1
+	Label:	" 8  North-Eastern Mountain Sourveld"
+	MinStr:	" 8  North-Eastern Mountain Sourveld"
+	MaxStr:	" 8  North-Eastern Mountain Sourveld"
+	Precision:	-3
+)
+
+(LClass.365
+	IsText:	1
+	Label:	" 9  Lowveld Sour Bushveld"
+	MinStr:	" 9  Lowveld Sour Bushveld"
+	MaxStr:	" 9  Lowveld Sour Bushveld"
+	Precision:	-3
+)
+
+(LClass.366
+	IsText:	1
+	Label:	"10  Lowveld"
+	MinStr:	"10  Lowveld"
+	MaxStr:	"10  Lowveld"
+	Precision:	-3
+)
+
+(LClass.367
+	IsText:	1
+	Label:	"11  Arid Lowveld"
+	MinStr:	"11  Arid Lowveld"
+	MaxStr:	"11  Arid Lowveld"
+	Precision:	-3
+)
+
+(LClass.368
+	IsText:	1
+	Label:	"12  Springbok Flats Turf Thornveld"
+	MinStr:	"12  Springbok Flats Turf Thornveld"
+	MaxStr:	"12  Springbok Flats Turf Thornveld"
+	Precision:	-3
+)
+
+(LClass.369
+	IsText:	1
+	Label:	"13  Other Turf Thornveld"
+	MinStr:	"13  Other Turf Thornveld"
+	MaxStr:	"13  Other Turf Thornveld"
+	Precision:	-3
+)
+
+(LClass.370
+	IsText:	1
+	Label:	"14  Arid Sweet Bushveld"
+	MinStr:	"14  Arid Sweet Bushveld"
+	MaxStr:	"14  Arid Sweet Bushveld"
+	Precision:	-3
+)
+
+(LClass.371
+	IsText:	1
+	Label:	"15  Mopani Veld"
+	MinStr:	"15  Mopani Veld"
+	MaxStr:	"15  Mopani Veld"
+	Precision:	-3
+)
+
+(LClass.372
+	IsText:	1
+	Label:	"16  Kalahari Thornveld and Shrub Bushveld"
+	MinStr:	"16  Kalahari Thornveld and Shrub Bushveld"
+	MaxStr:	"16  Kalahari Thornveld and Shrub Bushveld"
+	Precision:	-3
+)
+
+(LClass.373
+	IsText:	1
+	Label:	"17  Kalahari Thornveld invaded by Karoo"
+	MinStr:	"17  Kalahari Thornveld invaded by Karoo"
+	MaxStr:	"17  Kalahari Thornveld invaded by Karoo"
+	Precision:	-3
+)
+
+(LClass.374
+	IsText:	1
+	Label:	"18  Mixed Bushveld"
+	MinStr:	"18  Mixed Bushveld"
+	MaxStr:	"18  Mixed Bushveld"
+	Precision:	-3
+)
+
+(LClass.375
+	IsText:	1
+	Label:	"19  Sourish Mixed Bushveld"
+	MinStr:	"19  Sourish Mixed Bushveld"
+	MaxStr:	"19  Sourish Mixed Bushveld"
+	Precision:	-3
+)
+
+(LClass.376
+	IsText:	1
+	Label:	"20  Sour Bushveld"
+	MinStr:	"20  Sour Bushveld"
+	MaxStr:	"20  Sour Bushveld"
+	Precision:	-3
+)
+
+(LClass.377
+	IsText:	1
+	Label:	"21  False Thornveld of Eastern Province"
+	MinStr:	"21  False Thornveld of Eastern Province"
+	MaxStr:	"21  False Thornveld of Eastern Province"
+	Precision:	-3
+)
+
+(LClass.378
+	IsText:	1
+	Label:	"22  Invasion of Grassveld by Acacia Karoo"
+	MinStr:	"22  Invasion of Grassveld by Acacia Karoo"
+	MaxStr:	"22  Invasion of Grassveld by Acacia Karoo"
+	Precision:	-3
+)
+
+(LClass.379
+	IsText:	1
+	Label:	"23  Valley Bushveld"
+	MinStr:	"23  Valley Bushveld"
+	MaxStr:	"23  Valley Bushveld"
+	Precision:	-3
+)
+
+(LClass.380
+	IsText:	1
+	Label:	"24  Eastern Province Thornveld"
+	MinStr:	"24  Eastern Province Thornveld"
+	MaxStr:	"24  Eastern Province Thornveld"
+	Precision:	-3
+)
+
+(LClass.381
+	IsText:	1
+	Label:	"24  Noorsveld"
+	MinStr:	"24  Noorsveld"
+	MaxStr:	"24  Noorsveld"
+	Precision:	-3
+)
+
+(LClass.382
+	IsText:	1
+	Label:	"25  Succulent Mountain Scrub (Spekboomveld)"
+	MinStr:	"25  Succulent Mountain Scrub (Spekboomveld)"
+	MaxStr:	"25  Succulent Mountain Scrub (Spekboomveld)"
+	Precision:	-3
+)
+
+(LClass.383
+	IsText:	1
+	Label:	"26  Karroid Broken Veld"
+	MinStr:	"26  Karroid Broken Veld"
+	MaxStr:	"26  Karroid Broken Veld"
+	Precision:	-3
+)
+
+(LClass.384
+	IsText:	1
+	Label:	"27  Central Upper Karoo"
+	MinStr:	"27  Central Upper Karoo"
+	MaxStr:	"27  Central Upper Karoo"
+	Precision:	-3
+)
+
+(LClass.385
+	IsText:	1
+	Label:	"28  Western Mountain Karoo"
+	MinStr:	"28  Western Mountain Karoo"
+	MaxStr:	"28  Western Mountain Karoo"
+	Precision:	-3
+)
+
+(LClass.386
+	IsText:	1
+	Label:	"29  Arid Karoo and Desert False Grassveld"
+	MinStr:	"29  Arid Karoo and Desert False Grassveld"
+	MaxStr:	"29  Arid Karoo and Desert False Grassveld"
+	Precision:	-3
+)
+
+(LClass.387
+	IsText:	1
+	Label:	"30  Central Lower Karoo"
+	MinStr:	"30  Central Lower Karoo"
+	MaxStr:	"30  Central Lower Karoo"
+	Precision:	-3
+)
+
+(LClass.388
+	IsText:	1
+	Label:	"31  Succulent Karoo"
+	MinStr:	"31  Succulent Karoo"
+	MaxStr:	"31  Succulent Karoo"
+	Precision:	-3
+)
+
+(LClass.389
+	IsText:	1
+	Label:	"32  Orange River Broken Veld"
+	MinStr:	"32  Orange River Broken Veld"
+	MaxStr:	"32  Orange River Broken Veld"
+	Precision:	-3
+)
+
+(LClass.390
+	IsText:	1
+	Label:	"33  Namaqualand Broken Veld"
+	MinStr:	"33  Namaqualand Broken Veld"
+	MaxStr:	"33  Namaqualand Broken Veld"
+	Precision:	-3
+)
+
+(LClass.391
+	IsText:	1
+	Label:	"34  Strandveld of West Coast"
+	MinStr:	"34  Strandveld of West Coast"
+	MaxStr:	"34  Strandveld of West Coast"
+	Precision:	-3
+)
+
+(LClass.392
+	IsText:	1
+	Label:	"35  False Arid Karoo"
+	MinStr:	"35  False Arid Karoo"
+	MaxStr:	"35  False Arid Karoo"
+	Precision:	-3
+)
+
+(LClass.393
+	IsText:	1
+	Label:	"36  False Upper Karoo"
+	MinStr:	"36  False Upper Karoo"
+	MaxStr:	"36  False Upper Karoo"
+	Precision:	-3
+)
+
+(LClass.394
+	IsText:	1
+	Label:	"37  False Karroid Broken Veld"
+	MinStr:	"37  False Karroid Broken Veld"
+	MaxStr:	"37  False Karroid Broken Veld"
+	Precision:	-3
+)
+
+(LClass.395
+	IsText:	1
+	Label:	"38  False Central Lower Karoo"
+	MinStr:	"38  False Central Lower Karoo"
+	MaxStr:	"38  False Central Lower Karoo"
+	Precision:	-3
+)
+
+(LClass.396
+	IsText:	1
+	Label:	"39  False Succulent Karoo"
+	MinStr:	"39  False Succulent Karoo"
+	MaxStr:	"39  False Succulent Karoo"
+	Precision:	-3
+)
+
+(LClass.397
+	IsText:	1
+	Label:	"40  False Orange River Broken Veld"
+	MinStr:	"40  False Orange River Broken Veld"
+	MaxStr:	"40  False Orange River Broken Veld"
+	Precision:	-3
+)
+
+(LClass.398
+	IsText:	1
+	Label:	"41  Pan-turf Veld invaded by Karoo"
+	MinStr:	"41  Pan-turf Veld invaded by Karoo"
+	MaxStr:	"41  Pan-turf Veld invaded by Karoo"
+	Precision:	-3
+)
+
+(LClass.399
+	IsText:	1
+	Label:	"42  Danthonia Mountain Veld replaced by Karoo"
+	MinStr:	"42  Danthonia Mountain Veld replaced by Karoo"
+	MaxStr:	"42  Danthonia Mountain Veld replaced by Karoo"
+	Precision:	-3
+)
+
+(LClass.400
+	IsText:	1
+	Label:	"43  Mountain Renosterbosveld"
+	MinStr:	"43  Mountain Renosterbosveld"
+	MaxStr:	"43  Mountain Renosterbosveld"
+	Precision:	-3
+)
+
+(LClass.401
+	IsText:	1
+	Label:	"44  Highland Sourveld and Dohne Sourveld"
+	MinStr:	"44  Highland Sourveld and Dohne Sourveld"
+	MaxStr:	"44  Highland Sourveld and Dohne Sourveld"
+	Precision:	-3
+)
+
+(LClass.402
+	IsText:	1
+	Label:	"45  Ngongoni Veld of Natal Mist-belt"
+	MinStr:	"45  Ngongoni Veld of Natal Mist-belt"
+	MaxStr:	"45  Ngongoni Veld of Natal Mist-belt"
+	Precision:	-3
+)
+
+(LClass.403
+	IsText:	1
+	Label:	"46  Coastal Renosterbosveld"
+	MinStr:	"46  Coastal Renosterbosveld"
+	MaxStr:	"46  Coastal Renosterbosveld"
+	Precision:	-3
+)
+
+(LClass.404
+	IsText:	1
+	Label:	"47  Coastal Macchia"
+	MinStr:	"47  Coastal Macchia"
+	MaxStr:	"47  Coastal Macchia"
+	Precision:	-3
+)
+
+(LClass.405
+	IsText:	1
+	Label:	"48  Cymbopogon-Themeda Veld (sandy)"
+	MinStr:	"48  Cymbopogon-Themeda Veld (sandy)"
+	MaxStr:	"48  Cymbopogon-Themeda Veld (sandy)"
+	Precision:	-3
+)
+
+(LClass.406
+	IsText:	1
+	Label:	"49  Transitional Cymbopogon-Themeda Veld,"
+	MinStr:	"49  Transitional Cymbopogon-Themeda Veld,"
+	MaxStr:	"49  Transitional Cymbopogon-Themeda Veld,"
+	Precision:	-3
+)
+
+(LClass.407
+	IsText:	1
+	Label:	"50  Dry Cymbopogon-Themeda Veld"
+	MinStr:	"50  Dry Cymbopogon-Themeda Veld"
+	MaxStr:	"50  Dry Cymbopogon-Themeda Veld"
+	Precision:	-3
+)
+
+(LClass.408
+	IsText:	1
+	Label:	"51  Pan-turf Veld of Western Free State"
+	MinStr:	"51  Pan-turf Veld of Western Free State"
+	MaxStr:	"51  Pan-turf Veld of Western Free State"
+	Precision:	-3
+)
+
+(LClass.409
+	IsText:	1
+	Label:	"52  Themeda Veld (Turf Highveld)"
+	MinStr:	"52  Themeda Veld (Turf Highveld)"
+	MaxStr:	"52  Themeda Veld (Turf Highveld)"
+	Precision:	-3
+)
+
+(LClass.410
+	IsText:	1
+	Label:	"53  Themeda Veld to Cymbopogon-Themeda Veld Transition (patchy)"
+	MinStr:	"53  Themeda Veld to Cymbopogon-Themeda Veld Transition (patchy)"
+	MaxStr:	"53  Themeda Veld to Cymbopogon-Themeda Veld Transition (patchy)"
+	Precision:	-3
+)
+
+(LClass.411
+	IsText:	1
+	Label:	"54  Themeda Veld to Highland Sourveld Transition"
+	MinStr:	"54  Themeda Veld to Highland Sourveld Transition"
+	MaxStr:	"54  Themeda Veld to Highland Sourveld Transition"
+	Precision:	-3
+)
+
+(LClass.412
+	IsText:	1
+	Label:	"55  Themeda Veld to Bankenveld Transition"
+	MinStr:	"55  Themeda Veld to Bankenveld Transition"
+	MaxStr:	"55  Themeda Veld to Bankenveld Transition"
+	Precision:	-3
+)
+
+(LClass.413
+	IsText:	1
+	Label:	"56  Highland Sourveld to Cymbopogon-Themeda Veld Transition (East"
+	MinStr:	"56  Highland Sourveld to Cymbopogon-Themeda Veld Transition (East"
+	MaxStr:	"56  Highland Sourveld to Cymbopogon-Themeda Veld Transition (East"
+	Precision:	-3
+)
+
+(LClass.414
+	IsText:	1
+	Label:	"57  North-Eastern Sandy Highveld"
+	MinStr:	"57  North-Eastern Sandy Highveld"
+	MaxStr:	"57  North-Eastern Sandy Highveld"
+	Precision:	-3
+)
+
+(LClass.415
+	IsText:	1
+	Label:	"58  Themeda-Festuca Alpine Veld"
+	MinStr:	"58  Themeda-Festuca Alpine Veld"
+	MaxStr:	"58  Themeda-Festuca Alpine Veld"
+	Precision:	-3
+)
+
+(LClass.416
+	IsText:	1
+	Label:	"59  Stormberg Plateau Sweet Veld"
+	MinStr:	"59  Stormberg Plateau Sweet Veld"
+	MaxStr:	"59  Stormberg Plateau Sweet Veld"
+	Precision:	-3
+)
+
+(LClass.417
+	IsText:	1
+	Label:	"60  Karroid Danthonia Mountain Veld"
+	MinStr:	"60  Karroid Danthonia Mountain Veld"
+	MaxStr:	"60  Karroid Danthonia Mountain Veld"
+	Precision:	-3
+)
+
+(LClass.418
+	IsText:	1
+	Label:	"61  Bankenveld"
+	MinStr:	"61  Bankenveld"
+	MaxStr:	"61  Bankenveld"
+	Precision:	-3
+)
+
+(LClass.419
+	IsText:	1
+	Label:	"62  Bankenveld to Sour Sandveld Transition"
+	MinStr:	"62  Bankenveld to Sour Sandveld Transition"
+	MaxStr:	"62  Bankenveld to Sour Sandveld Transition"
+	Precision:	-3
+)
+
+(LClass.420
+	IsText:	1
+	Label:	"63  Piet Retief Sourveld"
+	MinStr:	"63  Piet Retief Sourveld"
+	MaxStr:	"63  Piet Retief Sourveld"
+	Precision:	-3
+)
+
+(LClass.421
+	IsText:	1
+	Label:	"64  Northern Tall Grassveld (Transition Between Piet Retief Sourv"
+	MinStr:	"64  Northern Tall Grassveld (Transition Between Piet Retief Sourv"
+	MaxStr:	"64  Northern Tall Grassveld (Transition Between Piet Retief Sourv"
+	Precision:	-3
+)
+
+(LClass.422
+	IsText:	1
+	Label:	"65  Southern Tall Grassveld"
+	MinStr:	"65  Southern Tall Grassveld"
+	MaxStr:	"65  Southern Tall Grassveld"
+	Precision:	-3
+)
+
+(LClass.423
+	IsText:	1
+	Label:	"66  Natal Sour Sandveld"
+	MinStr:	"66  Natal Sour Sandveld"
+	MaxStr:	"66  Natal Sour Sandveld"
+	Precision:	-3
+)
+
+(LClass.424
+	IsText:	1
+	Label:	"67  Pietersburg Plateau Grassveld"
+	MinStr:	"67  Pietersburg Plateau Grassveld"
+	MaxStr:	"67  Pietersburg Plateau Grassveld"
+	Precision:	-3
+)
+
+(LClass.425
+	IsText:	1
+	Label:	"68  Eastern Province Grassveld"
+	MinStr:	"68  Eastern Province Grassveld"
+	MaxStr:	"68  Eastern Province Grassveld"
+	Precision:	-3
+)
+
+(LClass.426
+	IsText:	1
+	Label:	"69  Macchia (Fynbos)"
+	MinStr:	"69  Macchia (Fynbos)"
+	MaxStr:	"69  Macchia (Fynbos)"
+	Precision:	-3
+)
+
+(LClass.427
+	IsText:	1
+	Label:	"70  False Macchia"
+	MinStr:	"70  False Macchia"
+	MaxStr:	"70  False Macchia"
+	Precision:	-3
+)
+
+(LClass.428
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(NameDict.429
+)
+
+(NameDict.430
+)
+

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Acocks, J.P.H. </origin>
+				<pubdate>1988</pubdate>
+				<title>Veld Types of South Africa</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Pretoria, South Africa</pubplace>
+					<publish>National Botanical Institute</publish>
+				</pubinfo>
+				<othercit>Acocks, J.P.H. 1988. Veld Types of South Africa. Mem. Bot. Surv. S. Afr. No. 57. </othercit>
+				<onlink>\\SKEP\T\veget\acocksvt.shp</onlink>
+				<lworkcit>
+					<citeinfo>
+						<title>In 'The vegetation of southern Africa' (Ed. By. R.M. Cowling, D.M. Richardson and S.M. Pierce), pp91-98.</title>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">acocksvt</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>John Acocks travelled very widely throughout South Africa during a 40-year period and sampled some 3300 sites, meticulously recording plant species at the various sites. He described vegetation patterns at a scale that is still smaller than the biome. He described 70 Veld Types in South Africa, Lesotho and Swaziland. One can refer to Acocks' book Veld Types of South Africa for the descriptions together with photographs, species compositions, and some other characteristics of each veld type.</abstract>
+			<langdata Sync="TRUE">en</langdata><purpose>Vegetation descriptions with an agricultural potential viewpoint.</purpose></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1988</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>The state of the data set.  REQUIRED.</progress>
+			<update>The frequency with which changes and additions are made to the data set after the initial data set is completed.  REQUIRED.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">16.452320</westbc>
+				<eastbc Sync="TRUE">32.894001</eastbc>
+				<northbc Sync="TRUE">-22.129499</northbc>
+				<southbc Sync="TRUE">-34.833900</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">16.452320</leftbc><rightbc Sync="TRUE">32.894001</rightbc><bottombc Sync="TRUE">-34.833900</bottombc><topbc Sync="TRUE">-22.129499</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.  REQUIRED.</themekt>
+				<themekey>Vegetation</themekey>
+				<themekey>Veld</themekey><themekey>Veldtypes</themekey><themekey>natural resources</themekey></theme>
+			<place>
+				<placekey>Southern Africa</placekey>
+			</place>
+		</keywords>
+		<accconst>JPEG file available at the ftp site, shapefiles upon request.</accconst>
+		<useconst>JPEG file available at the ftp site, shapefiles upon request. Acknowledge National Botanical Institute.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Les Powrie</cntper>
+					<cntorg>National Botanical Institute</cntorg>
+				</cntperp>
+				<cntpos>GIS and plant ecological databases</cntpos>
+				<cntvoice>+27 +21 799 8703</cntvoice>
+				<cntfax>+27 +21 797 6903</cntfax>
+				<cntemail>powrie@nbi.ac.za</cntemail>
+				<hours>09:00 to 15:00 SAST (GMT + 2)</hours>
+				<cntinst>If there is no answer, please leave a message, or send and e-mail message.</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://www.plantzafrica.com/frames/vegfram.htm</browsen>
+			<browsed>Graphic of the shapefile, with layout and NBI logo</browsed>
+			<browset>JPEG</browset>
+		</browse>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 1; ESRI ArcCatalog 8.2.0.700</native>
+		<crossref>
+			<citeinfo>
+				<origin>John H.P. Acocks</origin>
+				<pubdate>1988</pubdate>
+				<title>Acocks, J.P.H. 1988. Veld Types of South Africa. Mem. Bot. Surv. S. Afr. No. 57. </title>
+				<edition>3</edition>
+				<serinfo>
+					<sername>Memoirs of the Botanical Survey of South Africa</sername>
+					<issue>57</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Pretoria, South Africa</pubplace>
+					<publish>National Botanical Institute</publish>
+				</pubinfo>
+				<othercit>ACOCKS, J.P.H. 1988. Veld types of South Africa. Memoirs of the Botanical Survey of South Africa No. 57. 1---146.</othercit>
+				<onlink>http://www.nbi.ac.za</onlink>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<pubdate>1997</pubdate>
+						<title>Characterization of biomes</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Cambridge</pubplace>
+							<publish>Cambridge University Press</publish>
+						</pubinfo>
+						<othercit>Rutherford, M.C. (1997) Characterization of biomes. In The vegetation of southern Africa (Ed. By. R.M. Cowling, D.M. Richardson and S.M. Pierce), pp91-98. Cambridge University Press, Cambridge.</othercit>
+						<onlink>
+ftp://napalm.nbi.ac.za/pub/resources/biomes/sabiomelayout1.jpg
+http://www.nbi.ac.za/frames/productsfram.htm
+</onlink>
+					</citeinfo>
+				</srccite>
+			</srcinfo>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">c:\Temp\xml1D.tmp</srcused><date Sync="TRUE">20030623</date><time Sync="TRUE">12530500</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="acocksvt">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">548</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>43</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>43</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>10</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>0</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="acocksvt"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">548</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_Assumed_Geographic_1</geogcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="acocksvt">
+			<enttyp>
+				<enttypl Sync="TRUE">acocksvt</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">548</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">AREA</attrlabl>
+				<attalias Sync="TRUE">AREA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">12</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERIMETER</attrlabl>
+				<attalias Sync="TRUE">PERIMETER</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">12</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">ACOCKSVT_</attrlabl>
+				<attalias Sync="TRUE">ACOCKSVT_</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">ACOCKSVT_I</attrlabl>
+				<attalias Sync="TRUE">ACOCKSVT_I</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">VELD_TYPE</attrlabl>
+				<attalias Sync="TRUE">VELD_TYPE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DESCRIPTIO</attrlabl>
+				<attalias Sync="TRUE">DESCRIPTIO</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">JEANNECAT</attrlabl>
+				<attalias Sync="TRUE">JEANNECAT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">5</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LEGEND</attrlabl>
+				<attalias Sync="TRUE">LEGEND</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">65</attwidth></attr>
+			<attr>
+				<attrlabl>AREAHA</attrlabl>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>SHP</formname>
+					<filedec>No compression applied</filedec>
+					<transize>0.414</transize>
+					<dssize Sync="TRUE">2.973</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>\\POWRIE\T\veget\sabiome.shp</networkr>
+							</networka>
+						</computer>
+						<accinstr>Local area network</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+		<distrib><cntinfo><cntorgp><cntorg>National Botanical Institute</cntorg></cntorgp></cntinfo></distrib></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20030623</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>The organization responsible for the metadata information.  REQUIRED.</cntorg>
+					<cntper>The person responsible for the metadata information.  REQUIRED.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>The mailing and/or physical address for the organization or individual.  REQUIRED.</addrtype>
+					<city>The city of the address.  REQUIRED.</city>
+					<state>The state or province of the address.  REQUIRED.</state>
+					<postal>The ZIP or other postal code of the address.  REQUIRED.</postal>
+				</cntaddr>
+				<cntvoice>The telephone number by which individuals can speak to the organization or individual.  REQUIRED.</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{26FB1DE5-FEAC-4C65-882F-7477244A82AE}</MetaID><CreaDate>20030623</CreaDate><CreaTime>12530500</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20030623</SyncDate><SyncTime>13035900</SyncTime><ModDate>20030623</ModDate><ModTime>13035900</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 1; ESRI ArcCatalog 8.2.0.700</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">acocksvt</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><geoBox esriExtentType="native"><westBL Sync="TRUE">16.45232</westBL><eastBL Sync="TRUE">32.894001</eastBL><northBL Sync="TRUE">-22.129499</northBL><southBL Sync="TRUE">-34.8339</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">16.45232</westBL><eastBL Sync="TRUE">32.894001</eastBL><northBL Sync="TRUE">-22.129499</northBL><southBL Sync="TRUE">-34.8339</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\SKEP\T\veget\acocksvt.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">2.973</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_Assumed_Geographic_1</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="acocksvt"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">548</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20030623</mdDateSt></metadata>
